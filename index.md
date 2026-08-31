@@ -22,3 +22,5 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+<script src="https://github.com"></script>
